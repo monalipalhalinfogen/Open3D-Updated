@@ -1,6 +1,6 @@
-git clone --depth 1 --shallow-submodules --recursive https://github.com/kewlbear/Open3D.git
-cd Open3D
+# git clone --depth 1 --shallow-submodules --recursive https://github.com/kewlbear/Open3D.git
+# cd Open3D
 
-sh ios/all.sh
+# sh ios/all.sh
 
-mv `find . -name \*.xcframework` .
+# mv `find . -name \*.xcframework` .
